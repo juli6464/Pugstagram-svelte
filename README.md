@@ -12,5 +12,5 @@ Webpack,
 Html,
 Netlify
 
-Link del proyecto: https://pugstagram-svelte-ja.netlify.app/
+Link del proyecto: https://pugstagram-svelte-ja.netlify.app/<br/>
 Link del proyecto usando Sapper: https://pugstagram-sapper-ja.netlify.app/
